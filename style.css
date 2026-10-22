@@ -12,4 +12,6 @@ margin: 10px;
 }
 main {
 display: 
+  justify-content: space-around;
+  align-item: center;
 }
