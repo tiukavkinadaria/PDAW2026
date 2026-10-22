@@ -21,7 +21,7 @@ body {
   list-style: none;
   min-height: 100vh;         
   box-sizing: border-box;
-  gap: 20px
+  gap: 40px
 }
 
 main {
