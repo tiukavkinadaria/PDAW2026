@@ -15,4 +15,6 @@ main {
 display: block;
   justify-content: space-around;
   align-item: center;
+  margin: 0;
+  padding: 0;
 }
