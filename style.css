@@ -24,7 +24,8 @@ body {
   gap: 40px
 }
 a {
-  color: #C44536
+  color: #C44536;
+  hover-color: mint;
 }
 
 main {
