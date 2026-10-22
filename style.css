@@ -11,6 +11,8 @@ body {
   isolation: isolate;
 margin: 0;
   padding: 30px;
+   position: sticky;
+   list-style: none;
 }
 main {
   display: flex;             
