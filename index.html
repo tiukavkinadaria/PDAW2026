@@ -5,6 +5,7 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
+<-----верхняя панелька------->
         <header> Personal Library</header>
         <ul> <div class="nav">
             <li>Home</li>
@@ -12,6 +13,16 @@
             <li>Favorites</li>
             <li>About</li>
         </ul>
+    <-------форма для добавления книги------->
+<form id="bookForm">
+  <input type="text" id="bookTitle" placeholder="Book name" required>
+  <input type="text" id="bookAuthor" placeholder="Autor" required>
+  <button type="submit">Add to my collection</button>
+</form>
+
+<------список книг------->
+<h2>My collection</h2>
+<ul id="bookList"></ul>
     </body>
 
 
