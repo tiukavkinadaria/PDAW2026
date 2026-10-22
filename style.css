@@ -5,8 +5,8 @@ body {
   display: flex;
   border: 4px;
   isolation: isolate;
-margin: 30px;
-  padding: 10px;
+margin: 100px;
+  padding: 30px;
 }
 main {
 display: flex;
