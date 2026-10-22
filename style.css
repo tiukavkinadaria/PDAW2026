@@ -2,7 +2,12 @@ body {
   background-color: powderblue;
 }
 #nav-menu {
+  display: flex;
+  border: 4px;
   isolation: isolate;
 margin: 30px;
   padding: 10px;
+}
+main {
+  flex
 }
