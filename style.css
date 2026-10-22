@@ -23,6 +23,9 @@ body {
   box-sizing: border-box;
   gap: 40px
 }
+a {
+  color: #C44536
+}
 
 main {
   flex-grow: 1;             
