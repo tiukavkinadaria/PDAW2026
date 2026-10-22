@@ -3,5 +3,6 @@ body {
 }
 #nav-menu {
   isolation: isolate;
-
+margin: 30px;
+  padding: 10px;
 }
