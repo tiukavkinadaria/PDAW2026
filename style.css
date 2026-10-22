@@ -3,7 +3,7 @@ body {
 }
 #nav-menu {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-item: flex-start;
   isolation: isolate;
 margin: 10px;
