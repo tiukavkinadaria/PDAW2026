@@ -5,7 +5,7 @@ body {
   display: flex;
   border: 4px;
   isolation: isolate;
-margin: 100px;
+margin: 10px;
   padding: 30px;
 }
 main {
