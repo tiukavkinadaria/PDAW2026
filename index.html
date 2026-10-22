@@ -3,6 +3,15 @@
     <head>  
         <meta charset="UTF-8">
         <link rel="stylesheet" href="style.css">
+        <header>
+  <div class="logo"> Personal Libary</div>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#fav">Favorites</a>
+    <!-- Ваша специальная кнопка добавления книги -->
+    <button id="navAddBookBtn" class="nav-btn">➕ Добавить книгу</button>
+  </nav>
+</header>
     </head>
     <body>
 <!-----верхняя панелька------->
@@ -13,12 +22,7 @@
             <li>Favorites</li>
             <li>About</li>
         </ul>
-    <!-------форма для добавления книги------->
-<form id="bookForm">
-  <input type="text" id="bookTitle" placeholder="Book name" required>
-  <input type="text" id="bookAuthor" placeholder="Autor" required>
-  <button type="submit">Add to my collection</button>
-</form>
+
 
 <!------список книг------->
 <h2>My collection</h2>
