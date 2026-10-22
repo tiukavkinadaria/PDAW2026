@@ -2,18 +2,17 @@ body {
   background-color: powderblue;
 }
 #nav-menu {
-  border: 0;
   width: 100%;
   background-color: white;
   display: flex;
   justify-content: space-around;
-  align-item: flex-start;
+  align-items: flex-start;
   isolation: isolate;
 margin: 10px;
   padding: 30px;
 }
 main {
-display: 
+display: block;
   justify-content: space-around;
   align-item: center;
 }
