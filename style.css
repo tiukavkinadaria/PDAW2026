@@ -8,7 +8,7 @@ body {
   justify-content: space-around;
   align-items: flex-start;
   isolation: isolate;
-margin: 10px;
+margin: auto;
   padding: 30px;
 }
 main {
