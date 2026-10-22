@@ -6,6 +6,7 @@ body {
 }
 
 #nav-menu {
+  color: #C44536
   width: 220px;
   background-color: #1B4332;
   display: flex;
