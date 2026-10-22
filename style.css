@@ -2,6 +2,7 @@ body {
   background-color: powderblue;
 }
 #nav-menu {
+  width: 100%;
   background-color: white;
   display: flex;
   justify-content: space-around;
