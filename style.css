@@ -25,9 +25,10 @@ body {
 }
 a {
   color: #C44536;
-  hover-color: mint;
 }
-
+a: hover {
+  color: #mint;
+}
 main {
   flex-grow: 1;             
   display: flex;
