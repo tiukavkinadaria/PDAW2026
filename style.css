@@ -27,10 +27,9 @@ body {
 a {
   color: #C44536;
   text-decoration: none;
+   hover-color: #1B4332;
 }
-a: hover {
-  color: #1B4332;
-}
+
 main {
   flex-grow: 1;             
   display: flex;
