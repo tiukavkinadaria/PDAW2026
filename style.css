@@ -31,7 +31,10 @@ a {
 a:hover {
     color: #1B4332;
 }
-
+#main-img {
+  max-width: 100%;
+  height: auto;
+}
 main {
   flex-grow: 1;             
   display: flex;
